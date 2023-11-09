@@ -2,7 +2,7 @@
 
 /**
  * free_dlistint - frees a dlistint_t list.
- * @head: pointer
+ * @h: pointer
  * Return: void
  */
 
